@@ -4,7 +4,7 @@
 
 ### Settings
 
-This simple block displays the song being played (title, artist, album) and can control mocp : 
+This simple block displays the song being played (title, artist, album) and controls mocp : 
 
 - left click => pause / unpause (mocp -G)
 - right click => next track (mocp -f)
